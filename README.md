@@ -70,8 +70,7 @@ kubernetes-redis-deployment-replicaset/
 │   ├── 04-escalamiento.png
 │   ├── 05-autorrecuperacion.png
 │   └── 06-estado-final.png
-└── informe/
-    └── Informe_Kubernetes_Redis.pdf
+
 ```
 
 
