@@ -74,7 +74,6 @@ kubernetes-redis-deployment-replicaset/
     └── Informe_Kubernetes_Redis.pdf
 ```
 
-> Las carpetas `evidencias/` e `informe/` y los archivos allí enumerados se incorporan al preparar la entrega; no son necesarios para ejecutar el Deployment.
 
 ## 7. Configuración: `redis-deployment.yml`
 
